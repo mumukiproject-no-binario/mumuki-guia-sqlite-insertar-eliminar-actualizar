@@ -1,0 +1,7 @@
+type: final_dataset
+final: SELECT id_contenido, titulo, puntaje FROM series_peliculas;
+expected: |
+  id_contenido|titulo|puntaje
+  1|Stranger things|9.7
+  2|Breaking bad|7
+  4|Better call Saul|6

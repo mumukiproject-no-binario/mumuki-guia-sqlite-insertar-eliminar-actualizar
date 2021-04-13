@@ -1,0 +1,4 @@
+type: display
+seed: |
+  INSERT INTO denisse (titulo_visto, temporadas) SELECT titulo, temporadas FROM series_peliculas WHERE id_contenido = 5 OR titulo = "Stranger Things" OR titulo LIKE "the walking dead" OR titulo LIKE "%internado%";
+query: select * from denisse;

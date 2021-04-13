@@ -1,0 +1,4 @@
+type: display
+seed: |
+  UPDATE series_peliculas SET puntaje = 8;
+query: SELECT * FROM series_peliculas;

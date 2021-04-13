@@ -1,0 +1,10 @@
+type: final_dataset
+final: SELECT * FROM denisse;
+expected: |
+  id_visto|titulo_visto|temporadas
+  1|Breaking bad|5
+  2|IT|
+  3|The Flash|3
+  4|The walking dead|8
+  5|Los juegos del hambre|
+  6|Stranger things|2

@@ -1,0 +1,5 @@
+type: final_dataset
+final: SELECT * FROM series_peliculas WHERE id_contenido = 5;
+expected: |
+  id_contenido|titulo|descripcion|creador|personajes|temporadas|estreno
+  5|The Flash|Después de ser alcanzado por un rayo, Barry Allen se despierta del coma para descubrir que se le ha dado el poder de la súper velocidad, convirtiéndose en Flash, luchando contra el crimen en Central City.|Greg Berlanti, Geoff Johns, Andrew Kreisberg|Barry Allen, Killer Frost, Iris West, Eobard Thawne, Vibe, Wally West, Henry Allen|3|2014

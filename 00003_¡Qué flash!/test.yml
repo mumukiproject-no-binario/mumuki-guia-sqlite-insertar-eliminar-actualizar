@@ -1,0 +1,6 @@
+type: final_dataset
+final: SELECT * FROM series_peliculas;
+expected: |
+  id_contenido|titulo|descripcion|creador|personajes|temporadas|estreno
+  1|Stranger things|Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial.|The Duffer Brothers|Eleven, Mike, Will, Dustin, Lucas, Hopper, Joyce, Nancy, Jonathan, Steve|2|2016
+  2|The Flash|||||

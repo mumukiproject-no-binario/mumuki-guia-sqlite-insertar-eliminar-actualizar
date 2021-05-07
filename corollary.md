@@ -1,4 +1,4 @@
-¡Excelente! Logramos sacar lo mejor del contenido... Y de nosotros también. :blush:
+¡Excelente! Logramos sacar lo mejor del contenido... Y de nosotres también. :blush:
 
 En esta lección aprendimos:
 

@@ -1,4 +1,4 @@
-¡Tranquilos! Acá tenemos la tabla inicial tal como estaba. :tada:
+¡Tranquiles! Acá tenemos la tabla inicial tal como estaba. :tada:
 
 
 <div

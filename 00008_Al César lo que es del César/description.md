@@ -1,4 +1,4 @@
-Para mejorar la plataforma queremos hacer un perfil más especial para cada usuario. Para eso, crearemos una tabla para cada uno que guarde los datos del contenido que vio. 
+Para mejorar la plataforma queremos hacer un perfil más especial para cada usuarie. Para eso, crearemos una tabla para cada uno que guarde los datos del contenido que vio. 
 
 Supongamos que Denisse, fiel clienta de NetFix, estuvo mirando recientemente _Los juegos del hambre, Stranger things, The walking dead y El internado_. Desde _nuestra tabla_ de contenidos podríamos cargarle fácilmente toda la información en _su tabla_ de la siguiente manera:
 
